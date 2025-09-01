@@ -24,15 +24,6 @@ The dataset used in this project is a CSV file (`movies.csv`) containing metadat
 
 > **Note:** The notebook expects the dataset at `/content/movies.csv`. Adjust the path as needed for your environment.
 
-## Project Structure
-
-```
-.
-├── Recommender_System_with_Collaborative_Filtering_and_Matrix_Factorization.ipynb
-├── movies.csv
-└── README.md
-```
-
 ## Features & Approaches
 
 ### 1. Popularity-Based Recommender (Baseline)
